@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/modinfo.lua" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modmain/languages/loc.lua" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modmain/othermods/looktietu.lua" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modmain/othermods/ui_mobile.lua" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modworldgenmain.lua" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scripts/chang/modules/libraries/Ellyb-develop/Configuration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scripts/chang/modules/libraries/Ellyb-develop/Documentation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scripts/chang/modules/logs/logger.lua" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/chang/modules/tmp/test1.lua" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/chang_m3/dst/excluded/backup/modinfo_backup.lua" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scripts/tmp/m3222/chang/dst/excluded/backup/modinfo_backup.lua" charset="UTF-8" />
+  </component>
+</project>

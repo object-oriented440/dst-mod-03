@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="LUA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scripts" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang/modules/libraries/Ellyb-develop" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang/modules/datastructure" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang/modules/gadgets" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/prefabs/m3/myself/incompleted" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/prefabs/m3/gameself/incompleted" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/datastructure" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/utils/datastructure" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/utils/incomplete" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/libraries/Ellyb-develop" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/libraries" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/gadgets" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/modules/notes" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/chang_m3/dst/excluded" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/modules/libraries/Ellyb-develop" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/modules/datastructure" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/modules/gadgets" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/modules/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/modules/utils/incomplete" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/dst/excluded" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/dst/excluded/notes" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/dst/excluded/backup" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/dst/excluded/reference" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/dst/excluded/tmp" />
+    </content>
+    <content url="file://$MODULE_DIR$/scripts/tmp/m3222/chang/modules/libraries/Ellyb-develop" />
+    <orderEntry type="jdk" jdkName="Lua" jdkType="Lua SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
